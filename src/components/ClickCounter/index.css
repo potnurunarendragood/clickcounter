@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 20px;
+}
+.header {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  padding-top: 150px;
+}
+.paragraph {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
+.counter {
+  color: #c20a72;
+  font-size: 30px;
+  font-weight: 600;
+}
+.button {
+  color: white;
+  font-size: 10px;
+  font-weight: 400;
+  background-color: #007bff;
+  margin-left: 750px;
+  border: 0px;
+  padding: 10px;
+}
